@@ -1,0 +1,2 @@
+# playground-minizinc
+minizinc modelling
