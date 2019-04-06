@@ -1,0 +1,6 @@
+COMPUTE = {compute1, compute2, compute3, compute4};
+VMTYPE = {VM1, VM2, VM3};
+avail_cpu = [2, 2, 4, 10];
+avail_ram = [4, 4, 4, 20];
+req_cpu = [4, 4 ,4];
+req_ram = [1, 2, 4];
