@@ -1,0 +1,4 @@
+MOVES = {move1, move2, move3};
+timebound = 180;
+power = [10, 50, 60];
+duration = [50, 70, 80];
